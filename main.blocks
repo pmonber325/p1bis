@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="L#Z}JT_sX02yXsO[}#m3" x="20" y="20"></block><block type="device_forever" id="VIj6=|sEVOt2d]N]x8-2" x="88" y="219"><statement name="HANDLER"><block type="device_show_leds" id="wwv?XHh6kY22Kp(pw+%i"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="5JW@tX1FLR34=+(:pv{5"><value name="pause"><shadow type="timePicker" id="%~^0D2AqAuR*Zus2x2/-"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="us.OrkU9-uL*!+z!_O{`"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="uOOA}8:QaU4N*eKMO}!c"><value name="pause"><shadow type="timePicker" id="`C.~foX@BHAzp8/{#/?Q"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="hh6JzzWcejlp)k4p)3#J"><field name="LEDS">`
+        . . . . . 
+        # . . . # 
+        . # # # . 
+        . . . . . 
+        . # . # .
+        `</field><next><block type="device_pause" id="I]l=~w]}R$N/hn$/*URM"><value name="pause"><shadow type="timePicker" id="gw$hzxX$F8HKV9gb-vm{"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="2mV+A%TzXEqBi[fRZQ/-"><field name="LEDS">`
+        # . . . # 
+        . # # # . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_pause" id="~vxV)fFUL^9~agVCnepS"><value name="pause"><shadow type="timePicker" id="admbRHx1S*v{sn*$7,K+"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="81Qm|uCQSazEL+^ps7*`"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_pause" id="(ZmU=Lo^Ya/D#Bgm.dQS"><value name="pause"><shadow type="timePicker" id="?gU]yGGka2(wh}|r84*n"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
